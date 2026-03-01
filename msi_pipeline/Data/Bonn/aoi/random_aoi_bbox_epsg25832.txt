@@ -1,0 +1,5 @@
+# Random AOI around Bonn (EPSG:25832)
+minx=364939
+miny=5621634
+maxx=366939
+maxy=5623634
